@@ -1,2 +1,3 @@
 # INSY4970Lab
-username: AUusername<br>
+username: camulkey<br>
+This is the lab readme
